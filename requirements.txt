@@ -1,0 +1,9 @@
+autopep8==1.6.0
+click==8.0.3
+colorama==0.4.4
+commonmark==0.9.1
+pycodestyle==2.8.0
+Pygments==2.11.2
+rich==10.16.2
+toml==0.10.2
+typer==0.4.0
