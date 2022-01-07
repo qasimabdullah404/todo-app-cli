@@ -14,3 +14,4 @@
 - To update the todo (task only) - <code>python todo.py update 1 --task "Test"</code>
 - To update the todo (category only) - <code>python todo.py update 1 --category "Study" </code>
 - To mark todo as completed - <code>python todo.py complete 1</code>
+- To delete a todo - <code>python todo.py delete 1 </code>
