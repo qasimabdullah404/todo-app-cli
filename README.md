@@ -4,7 +4,7 @@
 
 - clone the repository
 - activate your virtualenv
-- run: pip install -r requirements.txt in your shell
+- run: <code>pip install -r requirements.txt</code> in your shell
 
 ### Usage
 
