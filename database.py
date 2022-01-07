@@ -41,7 +41,7 @@ def get_all_todos() -> List[Todo]:
 
 
 def delete_todo(position):
-    c.execute('SELECT * FROM todos')
+    c.execute('SELECT count(*) FROM todos')
     count = c.fetchone()[0]
 
     with connection:
